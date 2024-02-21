@@ -1,4 +1,4 @@
-# Qualidade-do-Vinho
+Classificação da Qualidade do Vinho com Algoritmos Random Forest e Support Vector Machine
 
 # Conclusões
 1. O melhor resultado para o trabalho foi obtido com o algoritmo SVC, com a utilização da técnica Random Search.
