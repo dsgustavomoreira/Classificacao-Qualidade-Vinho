@@ -11,4 +11,5 @@ Sugerem-se algumas variações na metodologia deste estudo a fim de verificar o 
 
 1. Divisão da categoria 'target' em 3 classes (3 e 4; 5 e 6; e, 7 e 8), ao invés de somente duas (3, 4, 5; e 6, 7, 8);
 2. Aplicação de outros algoritmos, como XGBoost, haja vista a sua robustez;
-3. Utilizar limite superior e inferior para outliers de 1,5 ou 2 (neste estudo considerou-se 3).
+3. Utilizar limite superior e inferior para outliers de 1,5 ou 2 (neste estudo considerou-se 3);
+4. Manter os outliers, uma vez que não há argumentos convincentes para a sua exclusão.
