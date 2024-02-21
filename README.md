@@ -1,4 +1,4 @@
-# Previsão de Doenças Renais
+# Classificação da Qualidade do Vinho
 Classificação da Qualidade do Vinho com Algoritmos Random Forest e Support Vector Machine
 
 # Conclusões
